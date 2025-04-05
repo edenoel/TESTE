@@ -6,17 +6,17 @@
 ### A novidade ### A novidade ### A novidade ### A novidade ### A novidade ### A novidade ### A novidade ### A novidade 
 ########### Brasil: anime e tokusatsu ########### Brasil: anime e tokusatsu ########### Brasil: anime e tokusatsu ########### Brasil: anime e tokusatsu ########### Brasil: anime e tokusatsu ########### Brasil: anime e tokusatsu ########### Brasil: anime e tokusatsu ################
 #EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="http://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Anime | Pluto TV Brasil 
-https://solitary-sound-f62a.crackeredenoel.workers.dev/0:/5%20Dedos%20de%20Violencia%20Five.Fingers.Of.Death%20.1972.Bdrip.(Marcosbrito)%201080P.mkv
 #EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="http://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Anime | Pluto TV Brasil ~ link 2 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="animetv.br" tvg-logo="https://i.imgur.com/MuCJvAd.png" group-title="Brasil: anime e tokusatsu",Anime TV | Brasil 
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1 tvg-id="604b79c558393100078faeef" tvg-logo="http://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",5 DEDOS DE VIOLENCIA 
-https://solitary-sound-f62a.crackeredenoel.workers.dev/0:/5%20Dedos%20de%20Violencia%20Five.Fingers.Of.Death%20.1972.Bdrip.(Marcosbrito)%201080P.mkv#EXTINF:-1 tvg-id="604b79c558393100078faeef" tvg-logo="http://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Anime Ação | link 2 
+#EXTINF:-1 tvg-id="604b79c558393100078faeef" tvg-logo="http://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Anime Ação | Pluto TV Brasil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="604b79c558393100078faeef" tvg-logo="http://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Anime Ação | link 2 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="633dc392e0282400071b0d39" tvg-logo="http://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Beyblade | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="633dc392e0282400071b0d39" tvg-logo="http://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",5 DEDOS DE VIOLENCIA | Pluto TV Brasil | link 2
+#EXTINF:-1 tvg-id="633dc392e0282400071b0d39" tvg-logo="http://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",5 | Pluto TV Brasil
+https://solitary-sound-f62a.crackeredenoel.workers.dev/0:/5%20Dedos%20de%20Violencia%20Five.Fingers.Of.Death%20.1972.Bdrip.(Marcosbrito)%201080P.mkv
+#EXTINF:-1 tvg-id="633dc392e0282400071b0d39" tvg-logo="http://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",5 | Pluto TV Brasil | link 2
 https://solitary-sound-f62a.crackeredenoel.workers.dev/0:/5%20Dedos%20de%20Violencia%20Five.Fingers.Of.Death%20.1972.Bdrip.(Marcosbrito)%201080P.mkv
 #EXTINF:-1 tvg-id="656f389c3944b60008e5bdab" tvg-logo="http://images.pluto.tv/channels/656f389c3944b60008e5bdab/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Boruto | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656f389c3944b60008e5bdab/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1

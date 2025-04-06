@@ -1,10 +1,17 @@
-#EXTINF:-1 tvg-id="" tvg-name="[BR] ARTES MARCIAIS" tvg-logo="" group-title="ARTES MARCIAIS",[BR] LUTADOR INVENCIVEL
-https://solitary-sound-f62a.crackeredenoel.workers.dev/0:/OLUTADOR INVENCIVEL.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[BR] ARTES MARCIAIS" tvg-logo="" group-title="ARTES MARCIAIS",[BR] OS CINCO MESTRES DE SHAOLIN
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Lutador Invencível" tvg-logo="" group-title="Filmes - Artes Marciais",Lutador Invencível
+https://solitary-sound-f62a.crackeredenoel.workers.dev/0:/OLUTADOR%20INVENCIVEL.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Os Cinco Mestres de Shaolin" tvg-logo="" group-title="Filmes - Artes Marciais",Os Cinco Mestres de Shaolin
 https://solitary-sound-f62a.crackeredenoel.workers.dev/0:/OS%205%20MESTRES%20DE%20SHAOLIN.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[BR] SÉRIE TANGERINA" tvg-logo="" group-title="SÉRIE TANGERINA",[BR] Episódio 8
+
+#EXTINF:-1 tvg-id="" tvg-name="Tangerina - Episódio 8" tvg-logo="" group-title="Séries - Tangerina",Tangerina - Episódio 8
 https://solitary-sound-f62a.crackeredenoel.workers.dev/0:/TANGERINA/08.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[BR] SÉRIE TANGERINA" tvg-logo="" group-title="SÉRIE TANGERINA",[BR] Episódio 9
+
+#EXTINF:-1 tvg-id="" tvg-name="Tangerina - Episódio 9" tvg-logo="" group-title="Séries - Tangerina",Tangerina - Episódio 9
 https://solitary-sound-f62a.crackeredenoel.workers.dev/0:/TANGERINA/9.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[BR] SÉRIE TANGERINA" tvg-logo="" group-title="SÉRIE TANGERINA",[BR] Episódio 10
+
+#EXTINF:-1 tvg-id="" tvg-name="Tangerina - Episódio 10" tvg-logo="" group-title="Séries - Tangerina",Tangerina - Episódio 10
 https://solitary-sound-f62a.crackeredenoel.workers.dev/0:/TANGERINA/10.mp4
